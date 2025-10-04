@@ -1,7 +1,5 @@
 # HOSCT Team
 
-HelpOldSeewoClassTeachingTeam
-
 一个为低性能教学一体机开发简易低占用教学工具，并为山区支教老师及实习老师提供授课设备与教学文档的小组。
 
 A team dedicated to developing simple and low-resource-consuming teaching tools for low-performance educational all-in-one computers, while providing teaching equipment and instructional documents to teachers engaged in voluntary teaching in mountainous areas and student teachers (probationary teachers).
